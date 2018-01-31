@@ -1,0 +1,325 @@
+Barber,  Samuel | 1910
+Hindemith,  Paul | 1895
+Ysaye,  Eugène | 1858
+Herman,  Jerry | 1931
+Rissmann,  Paul | 1975
+Carey,  Mariah | 1969
+Lalo,  Edouard | 1823
+Vaclavik,  Jude | 1982
+Arlen,  Harold | 1905
+Beethoven,  Ludwig  van | 1770
+Jadin,  Louis  Emmanuel | 1768
+Kabalevsky,  Dmitri | 1904
+Tchaikovsky,  Pyotr  Ilyich | 1840
+Strauss,  Richard | 1864
+Ye,  Xiaogang | 1955
+Ibert,  Jacques | 1890
+Williams,  John | 1932
+Sullivan,  Sir  Arthur  Seymour | 1842
+Bozza,  Eugene  Joseph | 1905
+Sousa,  John  Philip | 1854
+Pasek,  Benj | 2007
+Grieg,  Edvard | 1843
+Blaine,  Ralph | 1989
+Mahler,  Gustav | 1860
+Bruckner,  Anton | 1824
+Schoenberg,  Arnold | 1874
+Chin,  Unsuk | 1961
+Ellington,  Duke | 1899
+Schumann,  Robert | 1810
+Glinka,  Mikhail | 1804
+Rodrigo,  Joaquín | 1901
+Stravinsky,  Igor | 1882
+Rimsky-Korsakov,  Nikolai | 1844
+Tovey,  Bramwell | 1953
+Hamlisch,  Marvin | 1944
+Peace,  A.  L. | 1844
+Guettel,  Adam | 1964
+Shayne,  Gloria | 1923
+Bartok [Bartók],  Béla | 1881
+Romberg,  Sigmund | 1887
+Mingus,  Charles | 1922
+Braunfels,  Walter | 1882
+Bizet,  Georges | 1838
+Hanson,  Graydon | 2006
+Micic,  Mia | 2003
+Marsalis,  Wynton | 1961
+Strauss,  Josef | 1827
+Leigh,  Mitch | 1928
+Wagner,  Richard | 1813
+Finzi,  Gerald | 1901
+Akiho,  Andy | 1979
+Ross,  Jerry | 1926
+Gruber,  Franz  Xaver | 1787
+Gulielmetti,  Jack | 1996
+Hillborg,  Anders | 1954
+Premru,  Raymond | 1934
+Copland,  Aaron | 1900
+Lutoslawski,  Witold | 1913
+Liszt,  Franz | 1811
+Rossini,  Gioachino | 1792
+Pierpont,  James  Lord | 1822
+Rodgers,  Richard | 1902
+Bliss,  Philip | 1838
+Braun,  Aliyana  Tedi | 1997
+Robin,  Yann | 1974
+Musorgsky,  Modest | 1839
+Stucky,  Steven | 1949
+Keillor/Dworsky/Stein,  Garrison/Rich/Andy | 1942
+Bach,  Johann  Sebastian | 1685
+Stein,  Andy | 1976
+Bruch,  Max | 1838
+Speaks,  Oley | 1874
+Lane,  Burton | 1912
+Takemitsu,  Toru | 1930
+Rouse,  Christopher | 1949
+Irfan,  Tengku  Ahmad | 1999
+Westlake,  Nigel | 1958
+Jobim,  Antônio  Carlos ("Tom") | 1927
+Mozart,  Wolfgang  Amadeus | 1756
+Feliciano,  José | 1945
+Anderson,  Leroy | 1908
+Monk,  Thelonious | 1917
+Haydn,  Franz  Joseph | 1732
+Dukas,  Paul | 1865
+Elgar,  Sir  Edward | 1857
+Nielsen,  Carl | 1865
+Bacharach,  Burt | 1928
+Ravel,  Maurice | 1875
+Fagin,  Gary | 1955
+Sondheim,  Stephen | 1930
+Falla,  Manuel  de | 1876
+Loewe,  Frederick | 1901
+Elbel,  Louis | 1898
+Rechtman,  Elan | 1963
+Brahms,  Johannes | 1833
+Tilzer,  Albert Von | 1878
+Sarasate,  Pablo  de | 1844
+Dvorak,  Antonín | 1841
+Frackenpohl,  Arthur | 1924
+Sakho,  Hawa | 2002
+Puccini,  Giacomo | 1858
+Styne,  Jule | 1905
+Paganini,  Nicolò | 1782
+Janacek [Janácek],  Leoš | 1854
+Offenbach,  Jacques | 1819
+Kern,  Jerome | 1885
+Sandidge,  Daniel | False
+Vieuxtemps,  Henri | 1820
+Pollack,  Lew | 1895
+Zindars,  Earl | 1927
+Kodaly [Kodály],  Zoltán | 1882
+Ferro,  Nicola | 1974 
+Willson,  Meredith | 1902
+Lindberg,  Magnus | 1958
+Sibelius,  Jean | 1865
+Massenet,  Jules | 1842
+Newman,  Randy | 1943
+Jones,  Thaddeus | 1990
+Meij,  Johan de | 1953
+Adams,  John | 1735
+Bock,  Jerry | 1928
+Qian,  Qi | False
+Martinu,  Bohuslav | 1890
+Meltzer,  Harold | 1966
+Druckman,  Jacob | 1928
+Zivkovic,  Nebojsa  Jovan | 1962
+Berlioz,  Hector | 1803
+Rachmaninoff,  Sergei | 1873
+Prokofiev,  Sergei | 1891
+Reinecke,  Carl | 1824
+Foss,  Lukas | 1922
+Loesser,  Frank | 1910
+Zhang,  Qianyi | 1582
+Durufle [Duruflé],  Maurice | 1902
+Dallapiccola,  Luigi | 1904
+Handel,  George  Frideric | 1685
+Berlin,  Irving | 1888
+Velazquez,  Consuelo | 1916
+Garcia,  Jerry | 1942
+Messiaen,  Olivier | 1908
+Murail,  Tristan | 1947
+Ives,  Charles | 1874
+Kurtag [Kurtág],  Georgy [György] | 1926
+Debussy,  Claude | 1862
+Duery,  Louis | 1888
+Norman,  Andrew | 1980
+Guaraldi,  Vince | 1928
+Jobim,  Antonio  Carlos | 1927
+Mendoza y Cortés,  Quirino | 1862
+Porter,  Cole | 1891
+Reineke,  Steven | 1970
+Stevens,  Cassandra | 1930
+Chen,  Qigang | 1951
+Yoran,  Victor | 1937 
+Stenhammar,  Wilhelm | 1871
+Hesketh,  Kenneth | 1968
+Gershwin,  George | 1898
+Flaherty,  Stephen | 1960
+Ruders,  Poul | 1949
+Kander,  John | 1927
+Bloch,  Ernest | 1880
+Weber,  Carl  Maria Von | 1786
+Li,  Huanzhi | 1919
+Shea,  Michael  J. | 1906
+Britten,  Benjamin | 1913
+Cage,  John | 1912
+Fig,  Aaron  Wolff | False
+Bernstein,  Leonard | 1918
+Schubert,  Franz | 1797
+Sichel,  John | 1937
+Robinson and White,  William "Smokey" and Ronald | 1964
+Mendelssohn,  Felix | 1809
+Svane,  Randall | 1955
+Respighi,  Ottorino | 1879
+Shostakovich,  Dmitri | 1906
+Villa-Lobos,  Heitor | 1887
+Holst,  Gustav | 1874
+Sang,  Ruocuo | False
+Reznicek,  Emil  Nikolaus von | 1860
+Noon,  David | 1946
+Ying,  Qing | False
+Dun,  Tan | 1957
+Smith,  John  Stafford | 1750
+Isham,  Mark | 1951
+Chopin,  Frédéric | 1810
+Saint-Saens [Saint-Saëns],  Camille | 1835
+Nabokov,  Nicolas | 1903
+Harris,  Roy | 1898
+Strauss,  Johann, II | 1825
+Portnoff,  Mischa | 1901
+Zemlinsky,  Alexander | 1871
+Delius,  Frederick | 1862
+Wagenaar,  Bernard | 1894
+Kalinnikov,  Vassili | 1866
+Smetana,  Bedrich | 1824
+Damrosch,  Walter | 1862
+Berezowsky,  Nicolai | 1900
+Goossens,  Eugene | 1893
+Whithorne,  Emerson | 1884
+Verrall,  John | 1908
+Gould,  Morton | 1913
+Thompson,  Randall | 1899
+Babin,  Victor | 1909
+Kurthy,  Zoltan | 1986
+Indy,  Vincent  d' | 1851
+Chausson,  Ernest | 1855
+Purcell,  Henry | 1659
+Casella,  Alfredo | 1883
+Benjamin,  Arthur | 1893
+Franck,  César | 1822
+Vactor,  David  Van | 1906
+Roussel,  Albert | 1869
+Suppe [Suppé],  Franz  Von | 1819
+Wolf-Ferrari,  Ermanno | 1876
+Cornelius,  Peter | 1824
+Montemezzi,  Italo | 1875
+Woltmann,  Frederick | 1908
+Spohr,  Louis | 1784
+Vaughan Williams,  Ralph | 1872
+Castelnuovo-Tedesco,  Mario | 1895
+Toch,  Ernst | 1887
+Reger,  Max | 1873
+Miaskovsky,  Nikolai | 1881
+Korngold,  Erich | 1897
+Roger-Ducasse,  Jean | 1873
+Borodin,  Alexander | 1833
+Malipiero,  Gian  Francesco | 1882
+Wetzler,  Hermann  Hans | 1870
+Busch,  Adolf | 1891
+Tommasini,  Vincenzo | 1878
+Paer,  Ferdinando | 1771
+Zandonai,  Riccardo | 1883
+Honegger,  Arthur | 1892
+Loeffler,  Charles  Martin | 1861
+Pick-Mangiagalli,  Riccardo | 1882
+Pizzetti,  Ilderbando | 1880
+Boccherini,  Luigi | 1743
+Glazunov,  Alexander | 1865
+Vivaldi,  Antonio | 1678
+Burmeister,  Richard | 1860
+Hausegger,  Siegmund  von | 1872
+Schillings,  Max  Von | 1868
+Hadley,  Henry  Kimball | 1871
+Suk,  Josef | 1874
+Guiraud,  Ernest | 1837
+Gluck,  Christoph  Willibald | 1714
+Rubinstein,  Anton | 1829
+Lyadov,  Anatoli | 1855
+MacDowell,  Edward  A. | 1860
+David,  Felicien  Cesar | 1810
+Wolf,  Hugo | 1860
+Eckert,  Karl | 1820
+Ries,  Franz | 1846
+Vidal,  Paul  Antonin | 1863
+Bohm,  Carl | 1844
+Raff,  Joachim | 1822
+Flegier,  Ange | 1846
+Artsibushev,  Nikolai  Vassilievitch | 1858
+Thomas,  Ambroise | 1811
+Traditional, | False
+Leoncavallo,  Ruggero | 1857
+Goldmark,  Karl | 1830
+Giordano,  Umberto | 1867
+Gounod,  Charles | 1818
+Sokolov,  Nikolai  Alexandrovich | 1859
+Herbert,  Victor | 1859
+Jongen,  Joseph | 1873
+Boellmann,  Leon | 1862
+Vitols,  Jazeps | 1863
+Novak,  Jan | 1921
+Orff,  Carl | 1895
+Boulez,  Pierre | 1925
+Bussotti,  Sylvano | 1931
+Molter,  Johann  Melchior | 1696
+Sohal,  Naresh | 1939
+Pergolesi,  Giovanni  Battista | 1710
+Shankar,  Ravi | 1920
+Griffes,  Charles  Tomlinson | 1884
+Schnittke,  Alfred | 1934
+Dohnanyi,  Erno  von | 1877
+Furtwangler [Furtwängler],  Wilhelm | 1886
+Subramaniam,  Lakshminarayana | 1947
+Sinopoli,  Giuseppe | 1946
+Schuman,  William | 1910
+Buxtehude,  Dietrich | 1637
+Kay,  Hershy | 1919
+Casadesus,  Robert | 1899
+Skalkottas,  Nikos | 1904
+Liebermann,  Rolf | 1910
+Kirchner,  Leon | 1919
+Scott,  Cyril | 1879
+Grofe [Grofé],  Ferde | 1892
+Couperin,  Francois [François] | 1668
+Creston,  Paul | 1906
+Verdi,  Giuseppe | 1813
+Chavez [Chávez],  Carlos | 1899
+Miyagi,  Michio | 1894
+Gottschalk,  Louis  Moreau | 1829
+Thomson,  Virgil | 1896
+Pierne [Pierné],  Gabriel | 1863
+Lewis,  George | 1952
+Konoye,  Hidemaro | 1898
+Hall,  Reginald | 1870
+Piket,  Frederick | 1903
+Khachaturian,  Aram | 1903
+Weber,  Ben | 1916
+Chabrier,  Emmanuel | 1841
+Menotti,  Gian  Carlo | 1911
+Monteverdi,  Claudio | 1567
+Busoni,  Ferruccio | 1866
+Auerbach,  Lera | 1973
+Faure [Fauré],  Gabriel-Urbain | 1845
+Gruber,  HK | 1943
+Medtner,  Nikolai | 1880
+Davies,  Tansy | 1973
+Andres,  Timo | 1985
+Perez,  Edward | 1961
+Thorvaldsdottir,  Anna | 1977
+Corigliano,  John, Jr. | 1861
+Azmeh,  Kinan | 1976
+Weill,  Kurt | 1900
+Salonen,  Esa-Pekka | 1958
+Ligeti,  György | 1923
+Adolphe,  Julia | 1988
+Bolcom,  William | 1938
